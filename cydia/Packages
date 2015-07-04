@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Filename: deb/com.codyqx4.disconnected.deb
 Size: 2772
-MD5sum: b19ddb820f50cd713c63f24e81baf243
-SHA1: 6bcbe3b83855d2f971c8d4ee4e5773cd319ccde4
-SHA256: b1276c44dea982d27749741ebab1832fd1495a954f09bacca306b8f2a14ebf24
+MD5sum: e81243cd9e72f4d84a23ad37527e5038
+SHA1: a50307b751de927628b4e68dd3321275542e142d
+SHA256: 1bfe0112977111c0f329f73f48f84b259acf5d5846ca3d4dde873ee732b44a3e
 Section: System
 Description: Make Google, Bing, and Yahoo! search queries in Safari use Disconnect Private Search.
 Author: CODYQX4
@@ -20,9 +20,9 @@ Maintainer: CODYQX4
 Depends: sed
 Filename: deb/com.codyqx4.localssh.deb
 Size: 1048
-MD5sum: 4869d995d733f2f1324a7453b6cb8f0a
-SHA1: ddaa5b86e3d5eff9a81e435ef696e8a37d472495
-SHA256: 6dfe4c3d385f92b3d7e7c4e855d79f6e6df5c81d3ba052c7dbedb76d400eec8d
+MD5sum: 2857089eb3e01255d51e2fb3fb37c4ef
+SHA1: f3f498f8a5bfc4189adbaaa1b870df2f28e58b05
+SHA256: 974e179e8946241f7ae9fdc7408f252d149ba77bbd8eb07c4c3d1ebd7dc8b798
 Section: System
 Description: Allow apps like iSSH and Prompt to SSH into 127.0.0.1 by changing the SSH Port from 22 to 50022.
 Author: CODYQX4
@@ -30,15 +30,16 @@ Name: Local SSH
 Sponsor: CODYQX4
 
 Package: org.vit9696.correctopenvpn
-Version: 1.2
+Version: 1.2.1-1
 Architecture: iphoneos-arm
 Maintainer: vit9696
+Installed-Size: 72
 Depends: mobilesubstrate
 Filename: deb/org.vit9696.correctopenvpn.deb
-Size: 4530
-MD5sum: 316ed662bfbfc624713fc4e77c23ecce
-SHA1: 4ae6ab963802f83bbc642b65531a3bc4cfd605c3
-SHA256: d18e415e053c23d57b5410642fad6e8d77bd4f103a2c0d3dc4191f1148596a12
+Size: 4492
+MD5sum: ca0ec339d617e9b6b42539c1a6372711
+SHA1: acd2f404feb5fae894ee9370d37554d0f4c3a9c0
+SHA256: 7e87dd2af38363568695ddc3c18b929e0083602772d44bf879d7d83ebe7ecaa9
 Section: Tweaks
 Description: Fixes OpenVPN Connect crash on iOS 8
 Author: vit9696
