@@ -1,0 +1,12 @@
+Origin: CODYQX4's Repo
+Label: CODYQX4's Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: CODYQX4's Repo
+MD5Sum:
+1d97a203d43060b3e3ab04bb13b892da 1409 Packages
+5df622cf5dd35840ea994fc8dfb78031 551 Packages.gz
+3c04e8729f2a6e50adc3b93be07cfcb3 818 Packages.bz2
