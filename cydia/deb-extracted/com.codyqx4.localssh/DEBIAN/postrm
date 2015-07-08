@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Remove Additional SSH Service
+sed -i '/ssh2             50022\/udp/d' /etc/services
+sed -i '/ssh2             50022\/tcp/d' /etc/services
+
+# Set Port Settings Settings
+plutil -key Sockets -key "Alternate Listeners" -remove /Library/LaunchDaemons/com.openssh.sshd.plist
+
+# Restart SSH Service
+launchctl unload /Library/LaunchDaemons/com.openssh.sshd.plist
+launchctl load /Library/LaunchDaemons/com.openssh.sshd.plist

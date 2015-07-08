@@ -1,0 +1,9 @@
+Package: com.codyqx4.disconnected
+Name: Disconnected
+Version: 1.1
+Section: System
+Maintainer: CODYQX4
+Architecture: iphoneos-arm
+Description: Make Google, Bing, and Yahoo! search queries in Safari use Disconnect Private Search.
+Author: CODYQX4
+Sponsor: CODYQX4

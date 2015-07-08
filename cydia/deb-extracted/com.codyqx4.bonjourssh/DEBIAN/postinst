@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Add Bonjour Announcement
+plutil -key Sockets -key Listeners -key Bonjour -array /Library/LaunchDaemons/com.openssh.sshd.plist
+plutil -key Sockets -key Listeners -key Bonjour -arrayadd -value ssh /Library/LaunchDaemons/com.openssh.sshd.plist
+plutil -key Sockets -key Listeners -key Bonjour -arrayadd -value ssh-sftp /Library/LaunchDaemons/com.openssh.sshd.plist
+
+# Restart SSH Service
+launchctl unload /Library/LaunchDaemons/com.openssh.sshd.plist
+launchctl load /Library/LaunchDaemons/com.openssh.sshd.plist

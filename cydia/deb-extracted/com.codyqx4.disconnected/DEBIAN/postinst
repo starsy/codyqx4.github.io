@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Enter iOS Safari
+cd /Applications/MobileSafari.app
+
+# In Case of Reinstall
+mv -f SearchEnginesFallback.plist.original SearchEnginesFallback.plist
+
+# Backup Original
+mv -f SearchEnginesFallback.plist SearchEnginesFallback.plist.original
+
+# Apply Modified
+mv -f  SearchEnginesFallback.plist.modded SearchEnginesFallback.plist
+
+# Apply Read Only Permissions
+chmod 444 SearchEnginesFallback.plist

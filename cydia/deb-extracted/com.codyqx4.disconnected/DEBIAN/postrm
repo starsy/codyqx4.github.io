@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Enter iOS Safari
+cd /Applications/MobileSafari.app
+
+# Apply Original
+mv SearchEnginesFallback.plist.original SearchEnginesFallback.plist
+
+# Apply Default Permissions
+chmod 664 SearchEnginesFallback.plist

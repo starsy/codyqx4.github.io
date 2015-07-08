@@ -1,0 +1,10 @@
+Package: com.codyqx4.bonjourssh
+Name: Bonjour SSH
+Version: 1.2
+Section: System
+Maintainer: CODYQX4
+Depends: sed
+Architecture: iphoneos-arm
+Description: Advertise SSH/SFTP over the LAN via Bonjour.
+Author: CODYQX4
+Sponsor: CODYQX4

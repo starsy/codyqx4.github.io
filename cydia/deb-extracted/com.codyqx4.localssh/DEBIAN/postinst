@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Add Additional SSH Service
+sed -i '/ssh2             50022\/udp/d' /etc/services
+sed -i '/ssh2             50022\/tcp/d' /etc/services
+sed -i -e 's@ssh              22/tcp@ssh              22/tcp\nssh2             50022/tcp@g' /etc/services
+sed -i -e 's@ssh              22/udp@ssh              22/udp\nssh2             50022/udp@g' /etc/services
+
+# Set Port Settings Settings
+plutil -key Sockets -dict -key Alternate\ Listeners /Library/LaunchDaemons/com.openssh.sshd.plist
+plutil -key Sockets -key Alternate\ Listeners -dict /Library/LaunchDaemons/com.openssh.sshd.plist
+plutil -key Sockets -key Alternate\ Listeners -key SockServiceName -value ssh2 /Library/LaunchDaemons/com.openssh.sshd.plist
+
+# Restart SSH Service
+launchctl unload /Library/LaunchDaemons/com.openssh.sshd.plist
+launchctl load /Library/LaunchDaemons/com.openssh.sshd.plist

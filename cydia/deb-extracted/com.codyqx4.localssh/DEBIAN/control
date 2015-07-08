@@ -1,0 +1,10 @@
+Package: com.codyqx4.localssh
+Name: Local SSH
+Version: 1.2
+Section: System
+Maintainer: CODYQX4
+Depends: sed
+Architecture: iphoneos-arm
+Description: Allow apps like iSSH and Prompt to SSH into 127.0.0.1 by changing the SSH Port from 22 to 50022.
+Author: CODYQX4
+Sponsor: CODYQX4
