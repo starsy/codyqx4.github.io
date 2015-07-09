@@ -1,6 +1,6 @@
 Package: com.codyqx4.bonjourssh
 Name: Bonjour SSH
-Version: 1.2
+Version: 1.2.1
 Section: System
 Maintainer: CODYQX4
 Depends: sed
