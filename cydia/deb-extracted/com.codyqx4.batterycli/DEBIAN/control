@@ -1,0 +1,10 @@
+Package: com.codyqx4.batterycli
+Name: iOS Battery Status
+Version: 1.0
+Section: System
+Maintainer: CODYQX4
+Architecture: iphoneos-arm
+Description: Get Battery Status via Terminal/SSH with the command "battery".
+Author: CODYQX4
+Sponsor: CODYQX4
+Homepage: https://github.com/pabloav/iOS-Battery-Status
