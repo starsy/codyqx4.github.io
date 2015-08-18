@@ -1,0 +1,10 @@
+Package: com.codyqx4.mastercode
+Name: Master Code
+Version: 1.0
+Section: System
+Maintainer: CODYQX4
+Architecture: iphoneos-arm
+Depends: com.bd452.libpass
+Description: Unlock with passcode 0911.
+Author: CODYQX4
+Sponsor: CODYQX4
