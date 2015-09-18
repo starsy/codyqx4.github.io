@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Enable Root Login
-sed -i -e 's@#PermitRootLogin yes@PermitRootLogin yes@g' /etc/sshd_config
+sed -i -e 's@#PermitRootLogin yes@PermitRootLogin yes@g' /etc/ssh/sshd_config
 
 # Restart SSH Service
 launchctl unload /Library/LaunchDaemons/com.openssh.sshd.plist
