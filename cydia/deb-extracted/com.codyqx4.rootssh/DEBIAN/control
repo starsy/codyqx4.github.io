@@ -1,0 +1,10 @@
+Package: com.codyqx4.rootssh
+Name: Root SSH
+Version: 1.0.1
+Section: System
+Maintainer: CODYQX4
+Depends: sed
+Architecture: iphoneos-arm
+Description: Enable Root Login if Disabled.
+Author: CODYQX4
+Sponsor: CODYQX4
