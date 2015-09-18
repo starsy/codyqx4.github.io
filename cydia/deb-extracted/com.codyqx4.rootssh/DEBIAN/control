@@ -1,6 +1,6 @@
 Package: com.codyqx4.rootssh
 Name: Root SSH
-Version: 1.1.1
+Version: 1.1.2
 Section: System
 Maintainer: CODYQX4
 Depends: sed
