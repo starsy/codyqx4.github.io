@@ -5,7 +5,7 @@ Package: com.n104.bioboot
 Depends: mobilesubstrate, com.bd452.libpass, firmware (>= 7.0), firmware (<< 9.1)
 Section: Tweaks
 Installed-Size: 602
-Version: 1.0-6
+Version: 1.0-7
 Architecture: iphoneos-arm
 Description: Use Touch ID after reboot to unlock your phone!
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=biobootDp
