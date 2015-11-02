@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo activator send libactivator.system.sleepbutton
+

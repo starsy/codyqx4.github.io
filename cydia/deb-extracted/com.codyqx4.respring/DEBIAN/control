@@ -1,0 +1,10 @@
+Package: com.codyqx4.respring
+Name: Respring
+Version: 1.0
+Section: System
+Maintainer: CODYQX4
+Architecture: iphoneos-arm
+Description: Respring Device via Terminal/SSH with the command “respring”.
+Author: CODYQX4
+Sponsor: CODYQX4
+Depends: mobilesubstrate

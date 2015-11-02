@@ -1,0 +1,3 @@
+#!/bin/bash
+touch /var/mobile/Library/Preferences/com.saurik.mobilesubstrate.dat && sudo killall SpringBoard
+

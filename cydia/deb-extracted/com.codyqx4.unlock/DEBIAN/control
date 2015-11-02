@@ -1,0 +1,10 @@
+Package: com.codyqx4.unlock
+Name: Unlock
+Version: 1.0
+Section: System
+Maintainer: CODYQX4
+Architecture: iphoneos-arm
+Description: Respring via Terminal/SSH with the command “unlock”.
+Author: CODYQX4
+Sponsor: CODYQX4
+Depends: mobilesubstrate, libactivator, com.codyqx4.bypass|com.bd452.bypass

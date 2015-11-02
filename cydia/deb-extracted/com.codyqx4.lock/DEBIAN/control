@@ -1,0 +1,10 @@
+Package: com.codyqx4.lock
+Name: Lock
+Version: 1.0
+Section: System
+Maintainer: CODYQX4
+Architecture: iphoneos-arm
+Description: Lock Device via Terminal/SSH with the command “lock”.
+Author: CODYQX4
+Sponsor: CODYQX4
+Depends: mobilesubstrate, libactivator
