@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# LDID
+ldid -S /Applications/iTransmission.app/iTransmission
