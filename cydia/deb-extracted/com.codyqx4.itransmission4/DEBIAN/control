@@ -7,4 +7,4 @@ Architecture: iphoneos-arm
 Description: Install and LDID iTransmission 4 for iOS 9.
 Author: CODYQX4
 Sponsor: CODYQX4
-Depends: com.andywilk.itransmission4
+Depends: com.andywiik.itransmission4
