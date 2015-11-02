@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# LDID
+ldid -S /usr/bin/battery

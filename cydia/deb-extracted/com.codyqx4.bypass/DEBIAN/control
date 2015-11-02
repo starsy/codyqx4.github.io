@@ -1,0 +1,11 @@
+Package: com.codyqx4.bioboot
+Name: ByPass Fork
+Version: 2.0.1
+Section: Tweaks
+Maintainer: CODYQX4
+Architecture: iphoneos-arm
+Description: Bypass your passcode with Activator.
+Author: CODYQX4
+Sponsor: CODYQX4
+Depends: mobilesubstrate, com.bd452.libpass, firmware (>= 7.0), firmware (<< 9.1)
+

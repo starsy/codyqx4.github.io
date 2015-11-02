@@ -1,0 +1,11 @@
+Package: com.codyqx4.bioboot
+Name: BioBoot Fork
+Version: 1.1
+Section: Tweaks
+Maintainer: CODYQX4
+Architecture: iphoneos-arm
+Description: Use Touch ID after reboot to unlock your phone!
+Author: CODYQX4
+Sponsor: CODYQX4
+Depends: mobilesubstrate, com.bd452.libpass, firmware (>= 7.0), firmware (<< 9.1)
+

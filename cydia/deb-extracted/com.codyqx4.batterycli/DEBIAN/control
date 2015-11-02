@@ -1,6 +1,6 @@
 Package: com.codyqx4.batterycli
 Name: iOS Battery Status
-Version: 1.0
+Version: 1.1
 Section: System
 Maintainer: CODYQX4
 Architecture: iphoneos-arm
