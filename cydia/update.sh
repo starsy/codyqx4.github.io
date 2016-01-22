@@ -12,4 +12,4 @@ cp deb-mirror/*.deb deb-packed
 
 # Create Package Metadata
 dpkg-scanpackages deb-packed > Packages
-bzip2 Packages
+bzip2 -k Packages
