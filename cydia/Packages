@@ -2,11 +2,11 @@ Package: com.codyqx4.batterycli
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
-Filename: deb-packed/com.codyqx4.batterycli.deb
+Filename: deb-packed//com.codyqx4.batterycli.deb
 Size: 2610
-MD5sum: 3ba7327c4f6a6b1860fac796f7779055
-SHA1: 28a4f803026438b1871674d63a3710bf4b2720db
-SHA256: 7937d1303e53537f1353e1a83207559b709c7ac0ae032fd2ff4ffb22fb3eb675
+MD5sum: 65a95e1fada2f067f6767166583f376e
+SHA1: 68ab30d95cd9603d7d5d07eceba29ca65ecc3aaa
+SHA256: c6578bed04f98b326b023ce9e01ca30233c0b3d0af231576443644d18bcff5de
 Section: System
 Homepage: https://github.com/CODYQX4/iOS-Battery-Status
 Description: Get Battery Status via Terminal/SSH with the command "battery".
@@ -19,11 +19,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Depends: mobilesubstrate, com.bd452.libpass, firmware (>= 7.0), firmware (<< 9.1)
-Filename: deb-packed/com.codyqx4.bioboot.deb
+Filename: deb-packed//com.codyqx4.bioboot.deb
 Size: 43738
-MD5sum: 4d27244626f8b7a4f286a7b16e655d42
-SHA1: a416fe055676c801ad204868f5842ca00b8f9824
-SHA256: adb185238bcb1975145f3fd611c34f169fd6190ab4a4830e2926c083079eecae
+MD5sum: e5e88782da19cb0a14c5feff09472fec
+SHA1: 6897d0ae1124f1d551c4eda48fcfb2092aaed6bd
+SHA256: e46d330d9ecaba27106d958819bd8088c8391e14fefc4841bd366760043b3b32
 Section: Tweaks
 Description: Use Touch ID after reboot to unlock your phone!
 Author: CODYQX4
@@ -35,11 +35,11 @@ Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Depends: sed
-Filename: deb-packed/com.codyqx4.bonjourssh.deb
+Filename: deb-packed//com.codyqx4.bonjourssh.deb
 Size: 804
-MD5sum: 5f0a6401f43307a50218425b7af88598
-SHA1: 496c8986db78a88d0521eca359a70fe421943250
-SHA256: 2e640a36f868b1cde70425d0713b0ca6d12fe76d0db42ed15d5bea8f026f9fdf
+MD5sum: 74a188d3424a3a26475bd82692197aa4
+SHA1: a7998b1f89596df37548fb66053b806731dca7a1
+SHA256: 60d46cbdfff3b88a410cd9f094a140a6e3df9cfe876d7a42aba92ec847fba5c8
 Section: System
 Description: Advertise SSH/SFTP over the LAN via Bonjour.
 Author: CODYQX4
@@ -51,11 +51,11 @@ Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Depends: mobilesubstrate, com.bd452.libpass, firmware (>= 7.0), firmware (<< 9.1)
-Filename: deb-packed/com.codyqx4.bypass.deb
+Filename: deb-packed//com.codyqx4.bypass.deb
 Size: 22662
-MD5sum: fb974d2cac49dfeed6e94bb0c3ce90c5
-SHA1: 628bb27a31f3575a11affdc860a248fd057476bb
-SHA256: 0db45c15fcc38c3e2a0ef364eb7571f5f366f48122e3c37308fd7d15ccee32c2
+MD5sum: fc07af86f9bb50574744d7c5c0f5f311
+SHA1: d645105bccf28dccc5a145d7d4d9d303263a138c
+SHA256: 56909752cab1b0e524663c3d55728a6513b1db78e88c49d88358d673e096250f
 Section: Tweaks
 Description: Bypass your passcode with Activator.
 Author: CODYQX4
@@ -66,11 +66,11 @@ Package: com.codyqx4.disconnected
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
-Filename: deb-packed/com.codyqx4.disconnected.deb
+Filename: deb-packed//com.codyqx4.disconnected.deb
 Size: 2686
-MD5sum: 5ec7509d0bb034e2ad5822d9626e22ed
-SHA1: 7155980cfae1d74680233b6c040df0e91c58c3c9
-SHA256: 67b8e76a8ee457cfe155696ffd8a2412aace6df258f825390522aa1fb0b90f44
+MD5sum: 4053aacf0b5a5046cc651dd07185f188
+SHA1: 31330dd331a333c387afa895751d351342b868c4
+SHA256: 0c56df9c9030067cd7883d8d19587e6278a3dafa6324d7ddd7d7edd8339b9217
 Section: System
 Description: Make Google, Bing, and Yahoo! search queries in Safari use Disconnect Private Search.
 Author: CODYQX4
@@ -82,11 +82,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Depends: com.andywiik.itransmission4
-Filename: deb-packed/com.codyqx4.itransmission4.deb
+Filename: deb-packed//com.codyqx4.itransmission4.deb
 Size: 690
-MD5sum: d6928187649719225faca18c6bef6725
-SHA1: 9c615cbbeef3f678eb208b3d38700738f82060cb
-SHA256: 9d051612abb139a817ff77454588bccad483ca922339d4155a1cb11a56a2366d
+MD5sum: b3e4fd3ad9baed9f61775c749db12afd
+SHA1: f1ad62c5110548e83575bd3815584d6426c3e1a0
+SHA256: d18d46170ca6e7d278d468b202854c2e7eeebe21abc9235ccaca8683f33ca5bc
 Section: System
 Description: Install and LDID iTransmission 4 for iOS 9.
 Author: CODYQX4
@@ -98,11 +98,11 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Depends: sed
-Filename: deb-packed/com.codyqx4.localssh.deb
+Filename: deb-packed//com.codyqx4.localssh.deb
 Size: 940
-MD5sum: 0688926228d699b8a9db4e84547da84b
-SHA1: efa683f8504c7a71733d7183c94dbdebc0c17a6f
-SHA256: 917a92831c2fffa1fc3a1518b77062a8ee1797062a24abdb9ebfd4bf3a71bce7
+MD5sum: d21562f520f995a3cec4570310ba8207
+SHA1: 11c5391c14afe1aeb8d3914f9b75d4d8e9ffc991
+SHA256: 14fee51fe3b56af38b4e94ca67e9726174c907011ecf313f8a31b3f77d4d01ff
 Section: System
 Description: Allow apps like iSSH and Prompt to SSH into 127.0.0.1 by changing the SSH Port from 22 to 50022.
 Author: CODYQX4
@@ -114,11 +114,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Depends: mobilesubstrate, libactivator
-Filename: deb-packed/com.codyqx4.lock.deb
+Filename: deb-packed//com.codyqx4.lock.deb
 Size: 812
-MD5sum: fc1f7201a57cc0e16215de004f2193a0
-SHA1: d80f6f761684a931042062bd01b4fac401f0e630
-SHA256: b6f9eff20ea049e172887c42e6664ad3402694828f2eb418a8555ae010fb5490
+MD5sum: ab7ba1fc4d903691f15e8867eafef5d0
+SHA1: 67de8e884939422b7a355e5778c2ceff74e98040
+SHA256: 2d03059b2892a7e1eea2b1fd0dfe2397ef5b4f1357325e621b1651be443ab641
 Section: System
 Description: Lock Device via Terminal/SSH with the command “lock”.
 Author: CODYQX4
@@ -130,11 +130,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Depends: com.bd452.libpass
-Filename: deb-packed/com.codyqx4.mastercode.deb
+Filename: deb-packed//com.codyqx4.mastercode.deb
 Size: 5170
-MD5sum: 07bd42b054667a16bd233510811fcf18
-SHA1: 18dbfb80c6df6cf43fe0982ed120b7d6a92157bd
-SHA256: b8d565ae3433bbcf6b97cfd7061e081ca1823db5fdf7b362fbf7d7e85c452d21
+MD5sum: 827086ba80fe1a3ca03eaa7535c7adc8
+SHA1: a592f61de33d40aa51b5e167870a6b012d17ad7a
+SHA256: b673c40cc8735af88a2c0f9a4a8cdd12056653b011e843ada53fc80c56dbc877
 Section: System
 Description: Unlock with passcode 0911.
 Author: CODYQX4
@@ -146,11 +146,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Depends: mobilesubstrate
-Filename: deb-packed/com.codyqx4.respring.deb
+Filename: deb-packed//com.codyqx4.respring.deb
 Size: 794
-MD5sum: 10bb2ceeb5577afb46035842ff1fa2ff
-SHA1: b237a458b72d91b60285f97eb9bb9f712012c4fc
-SHA256: ee4e5ce5025820714793b8841955ac930d31aa96e4a580fa8fadb619556162d9
+MD5sum: 25f748015ebea4420bcb3c2ab713d682
+SHA1: ce7b469c1b2623f48373001955d03a28608b20f3
+SHA256: 847fca0ee04dd3a7f20c89c6a6f27a889e48d629ee655d5542a09772baea8d9b
 Section: System
 Description: Respring Device via Terminal/SSH with the command “respring”.
 Author: CODYQX4
@@ -162,11 +162,11 @@ Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Depends: sed
-Filename: deb-packed/com.codyqx4.rootssh.deb
+Filename: deb-packed//com.codyqx4.rootssh.deb
 Size: 786
-MD5sum: d1d99f5ebfb62aa00375f7bc89015daa
-SHA1: b683da10707623c1a75dba15a046b42862992fe6
-SHA256: df4f73d66bc95851fdb91b62b16482dd8e12c0df6158c92480d9f4e559a9d7ee
+MD5sum: 7ec2be6c166f0b785a56c677c322d8c9
+SHA1: be711a122aa960f922752028c6f92945c371bb98
+SHA256: b5b8b8d990da7fc75c5a7d1702bb5dd0223d166fb10b0703d231d576a38936bc
 Section: System
 Description: Enable Root Login if Disabled.
 Author: CODYQX4
@@ -178,11 +178,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Depends: mobilesubstrate
-Filename: deb-packed/com.codyqx4.safemode.deb
+Filename: deb-packed//com.codyqx4.safemode.deb
 Size: 846
-MD5sum: 70a0b4362f185f078baa08e4e251b50d
-SHA1: 074c349e8fe00865e346b921d7fe933aee64cc87
-SHA256: 5e167972f45f5e2a8daad3f75bb589034b39025f95de0eda02b9418e6f25eedb
+MD5sum: 53e95174499693a99c4ecd220866eb32
+SHA1: 9b56e9234dd0fafbeaf75c561be9cd6e92f91669
+SHA256: 4cd176475cc5d59cfdddef0f6cbf14ecc126e18a14a1abec30b2cf877b28639e
 Section: System
 Description: Enter Safe Mode via Terminal/SSH with the command “safemode”.
 Author: CODYQX4
@@ -194,32 +194,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CODYQX4
 Depends: mobilesubstrate, libactivator, com.codyqx4.bypass|com.bd452.bypass
-Filename: deb-packed/com.codyqx4.unlock.deb
+Filename: deb-packed//com.codyqx4.unlock.deb
 Size: 826
-MD5sum: 5fe1da6b61aad4d908bce5d2233989cc
-SHA1: 14dcc886783c1bc83f69d24ba76b1b03524c8e0c
-SHA256: 3e35139b308a2d1d882deb1c1fd3fec80345e2942e645f98276a223d304b818e
+MD5sum: 76dd6161ad36131e2bdb2dc9bf56be3c
+SHA1: 5fcb0b23ec7b76edf68bd2dee86bb79dce0f5a6b
+SHA256: 5df2c375d2573a19453adf67fb9c0578d6485cd5f6cf52c168fed328eb066340
 Section: System
 Description: Respring via Terminal/SSH with the command “unlock”.
 Author: CODYQX4
 Name: Unlock
 Sponsor: CODYQX4
-
-Package: com.sinfool.zoomcut
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: sinfool
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: deb-packed/com.sinfool.zoomcut_1.0-2_iphoneos-arm.deb
-Size: 3474
-MD5sum: 5c67a60dc30010da743cd3303fe0178e
-SHA1: a8be25f9b4dd4433e1f320b60780034c3a215edd
-SHA256: 1579c39ced24df726df73ff71f9bf858bcf51399f3bd0a612dfb210474ff8eab
-Section: Tweaks
-Description: Stop image edge cutoff on zoom
-Author: sinfool
-Name: ZoomCut
 
 Package: org.vit9696.correctopenvpn
 Version: 1.2.1-1
@@ -227,7 +211,7 @@ Architecture: iphoneos-arm
 Maintainer: vit9696
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: deb-packed/org.vit9696.correctopenvpn.deb
+Filename: deb-packed//org.vit9696.correctopenvpn.deb
 Size: 4492
 MD5sum: ca0ec339d617e9b6b42539c1a6372711
 SHA1: acd2f404feb5fae894ee9370d37554d0f4c3a9c0
