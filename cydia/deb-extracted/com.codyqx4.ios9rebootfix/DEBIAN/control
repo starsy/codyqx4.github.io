@@ -1,9 +1,10 @@
 Package: com.codyqx4.ios9rebootfix
-Name: Reboot Fix
-Version: 1.0.0
+Name: iOS 9 Reboot Fix
+Version: 1.1.0
 Section: System
 Maintainer: CODYQX4
 Architecture: iphoneos-arm
 Description: Prevent random reboots at night.
 Author: CODYQX4
 Sponsor: CODYQX4
+Depends: com.ericasadun.utilities
